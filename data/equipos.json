@@ -3,6 +3,18 @@
         "pais": "Paraguay",
         "abrev": "PY",
         "grupo": "A1",
-        "confederacion": "No sé"
+        "confederacion": "No s\u00c3\u00a9"
+    },
+    {
+        "pais": "Paraguay",
+        "abrev": "PY",
+        "grupo": "BTS",
+        "confederacion": "APF"
+    },
+    {
+        "pais": "Brasil",
+        "abrev": "BR",
+        "grupo": "10",
+        "confederacion": "Pelota"
     }
 ]
