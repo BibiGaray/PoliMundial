@@ -1,4 +1,4 @@
-class torneo:
+class Torneo:
     def __init__(self, nombre = "", inicio = "", fin = ""):
         self.nombre = nombre
         self.inicio = inicio
